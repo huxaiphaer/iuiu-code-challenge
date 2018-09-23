@@ -1,4 +1,4 @@
-package add_infinite_numbers;
+package remove_repetitions;
 
 import java.util.ArrayList;
 import java.util.Scanner;
