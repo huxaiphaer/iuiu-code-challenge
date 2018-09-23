@@ -1,4 +1,4 @@
-# IUIU-JAVA-challenge
+# IUIU-JAVA-challenge solutions
 
 ## Sample questions that are answered
 1. Write a program to display the current day and time in the following format. Sample Output : Today is : Tuesday. 
